@@ -1,0 +1,25 @@
+{
+    "protein_name": "nucleocapsid phosphoprotein",
+    "date_from": [2020, 1, 24],
+    "date_to": [2022, 6, 27],
+    
+    "path_to_download": "/Users/fabutech/Downloads/",
+
+    "path_to_raw_sequences": "raw_data/sequences.fasta",
+    "path_to_raw_accnumbs": "raw_data/sequences.acc",
+
+    "path_to_raw_save": "/Users/fabutech/Documents/Python/VsCode/Matura/Version05/raw_data/",
+    "path_to_protseq_save": "protein_sequence_data/",
+    "path_to_alignment_save": "/Users/fabutech/Documents/Python/VsCode/Matura/Version05/alignment_data/",
+    "path_to_final_save": "/Users/fabutech/Documents/Schule/Matura_Arbeit/Alignment_Daten/Nucleocapsid/",
+
+    "save_extracted_to_txt": false,
+    "save_aligned_to_txt": false,
+    "delete_protseq_files": true,
+    "delete_alignment_files": true,
+
+    "pick_random": true,
+    "random_per_day": 1000,
+    
+    "showBrowser": false
+}
